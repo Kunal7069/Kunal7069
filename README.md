@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Flutter and Jetpack Compose**
 
-- 📫 How to reach me **sv30092001@gmail.com**
+- 📫 How to reach me **jaink7069@gmail.com**
 
-- 📄 Know about my experiences [Link](https://shorturl.at/cxFT6)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1hLl40EAy6YOeH9VGa0o5FX6pMRf_xw_G/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
