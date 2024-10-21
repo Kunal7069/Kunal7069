@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal7069&label=Profile%20views&color=0e75b6&style=flat" alt="Kunal7069" /> </p>
 
-- 🔭 I’m currently working on **Fullstack Flutter and Jetpack Compose App Development and Automation testing**
+- 🔭 I’m currently working on **voice-activated app that manages emails and calls while leveraging backend functionality to enhance Android capabilities along with deployment automation**
 
-- 🌱 I’m currently learning **different backend technologies for app development**
+- 🌱 I’m currently learning **different backend technologies for app and web development**
 
-- 👯 I’m looking to collaborate with **Fullstack App developers**
+- 👯 I’m looking to collaborate with **Backend Developers**
 
-- 💬 Ask me about **Flutter and Jetpack Compose**
+- 💬 Ask me about **Backend and Deployment Technologies**
 
 - 📫 How to reach me **jaink7069@gmail.com**
 
